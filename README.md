@@ -4,7 +4,7 @@ Works to collect data for revenue, customers, and products, and it can be displa
 #  Sales Analytics Dashboard (SQL Project)
 
 Hey, I’m **Sohib Charkaoui**, and this is a quick but solid **Sales Analytics Dashboard** I built using MySQL.  
-It’s one of those plug-and-play projects — you can literally drop it into your SQL environment, run it, and get instant insights.
+It’s one of those plug-and-play projects you can literally drop it into your SQL environment, run it, and get instant insights.
 
 ---
 
